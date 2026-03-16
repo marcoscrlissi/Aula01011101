@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="ptbr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> 
+        Minha Página Pessoal
+    </header>
+    <main> 
+        <button1>Botão 1</button1> 
+        <button2>Botão 2</button2>
+    </main>
+    <footer> 
+        Londrina - Colégio Benedita - 2026
+    </footer>
+</body>
+</html>
 
